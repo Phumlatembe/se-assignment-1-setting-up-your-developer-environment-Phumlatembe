@@ -52,3 +52,12 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+ DOCUMENTATION OF MY ENVIRONMENT SETUP:
+ The operating system that i am using is the windows 11 which is updated to version 23H2 it was already installed in my Asus computer. The visual studios and git bash that is installed in my computer i have had it for a while, because i needed it for self learning some programs.
+ 
+ The python that i installed is the version 3.12.3 at first i installed the 3.12.4 version but it made my computer very slow for some reason so i decided to atleast change the version to the that is now installed in my computer.
+ 
+ MySQL database was a challenge as i firstly installed the wrong version which was the 5.7.44 so there was no server available after i finished installing it, but then i went through the documentatuion provided in the plp curriculum and followed the instruction provided which allowed me to see and install the server using the correct version 8.0.37 but it failed to install so i re installed it again which went through and i successfuly installed it.
+
+ After all was installed i went to vs code to install extensions and run python code on it to see if worked and it did work and to make sure all the software i installed we correct i ran some commands in the terminal to check:
